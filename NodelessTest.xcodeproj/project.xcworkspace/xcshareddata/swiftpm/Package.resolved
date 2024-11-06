@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "breez-sdk-liquid-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/breez/breez-sdk-liquid-swift",
+      "state" : {
+        "revision" : "385e4ca5e52a6f13e45f149adf83c80817eb5fb6",
+        "version" : "0.5.0-rc4"
+      }
+    }
+  ],
+  "version" : 2
+}
